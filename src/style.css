@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+/*
+  for canvas elements, best practice to explicitly set display: block; to be consistent across browsers
+*/
+canvas {
+  display: block;
+}
